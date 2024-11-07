@@ -1,9 +1,6 @@
 # Mammogram Density Classification using PyTorch
 
-![Mammogram Example](9-BREAST DENSITY CLASSIFICATION USING Python  - Introduction and Plan-machinemindscape.png)
-
 This repository contains code for training a deep learning model for BIRADS (A, B, C, D) density classification using the RSNA dataset. The project focuses on breast density classification from mammograms, which is crucial for breast cancer detection and diagnosis.
-
 
 ## Table of Contents
 - [Dataset](#dataset)
